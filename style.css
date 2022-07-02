@@ -1,0 +1,18 @@
+#blog{
+    background-color: rgb(229, 224, 212);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 10px solid palevioletred;
+    border-radius: 15px;
+    margin: 25px 100px ;
+    padding: 20px 50px;
+}
+
+.blog-title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+#blog p{
+    text-align: justify;
+}
